@@ -1,6 +1,4 @@
 # EXERCICIOS-PYTHON
-## Motivação
-Estou disponibilizando essa lista com codigos que eu e meu irmão fomos desenvolvendo com intuito de  aprendizado e conhecimento
 
 ## Enunciados
 ### Estruturas de decisão
