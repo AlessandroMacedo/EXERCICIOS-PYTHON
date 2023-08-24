@@ -5,9 +5,11 @@ Estou disponibilizando essa lista com codigos que eu e meu irmão fomos desenvol
 ## Enunciados
 ### Estruturas de decisão
 
-Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
-#### [Exercicios ED001](exercicios/ED001.py)
 
+#### [Exercicios ED001](exercicios/ED001.py)
+Faça um programa que peça uma nota, entre zero e dez. 
+Mostre uma mensagem caso o valor seja inválido e continue pedindo 
+até que o usuário informe um valor válido.
 
 
 Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro
