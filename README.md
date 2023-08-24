@@ -1,10 +1,10 @@
 # EXERCICIOS-PYTHON
 ## Motivação
-Estou disponibilizando essa lista com codigos que fui desenvolvendo durante minhas aulas e aprendizado com estudos
+Estou disponibilizando essa lista com codigos que eu e meu irmão fomos desenvolvendo com intuito de  aprendizado e conhecimento
 
 ## Enunciados
-### Estruturas sequenciais
-#### [Exercicio 001](exercicios/001.py)
+### Estruturas de decisão
+#### [Exercicios ED001](exercicios/ED001.py)
 
 Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
