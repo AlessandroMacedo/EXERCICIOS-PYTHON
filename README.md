@@ -11,6 +11,8 @@ até que o usuário informe um valor válido.
 
 ////////////////////////////////////////////////////////////////////////////
 
-#### [Exercicio 008](exercicios/008.py)
-Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro
-desta área para o usuário.
+### Estruturas de decisão
+
+#### [Exercicio EREP001](exercicios/ERER001.py)
+Faça um programa que leia um nome de usuário e a sua senha e não aceite
+a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
