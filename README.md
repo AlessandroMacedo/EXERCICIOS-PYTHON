@@ -11,7 +11,7 @@ até que o usuário informe um valor válido.
 
 ////////////////////////////////////////////////////////////////////////////
 
-### Estruturas de decisão
+### Estruturas de repetição
 
 #### [Exercicio EREP001](exercicios/ERER001.py)
 Faça um programa que leia um nome de usuário e a sua senha e não aceite
