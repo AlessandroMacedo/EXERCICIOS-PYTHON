@@ -2,7 +2,8 @@
 
 ## Enunciados
 ### Estruturas de decisão
-
+#### [Exercicio EDEC001](exercicios/EDEC001.py)
+Faça um Programa que leia três números e mostre o maior deles.
 
 
 
